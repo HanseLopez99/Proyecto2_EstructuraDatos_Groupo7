@@ -1,1 +1,5 @@
+Respositorio Git:
 https://github.com/HanseLopez99/Proyecto2_Fase1_EstructuraDatos.git
+
+Carpeta compartida con los Audios de las entrevistas:
+https://drive.google.com/open?id=1NCJqt4bXHgAHB8lPvIZAPTlltonD6kqP
